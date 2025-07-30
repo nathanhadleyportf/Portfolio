@@ -3,7 +3,7 @@
 ---
 
 ## Endpoint:
-GET https://api.nasa.gov/planetary/apod <br><br>
+`GET https://api.nasa.gov/planetary/apod`  <br><br>
 
 ## Description:
 Returns NASA’s Astronomy Photo of the Day (APOD) and accompanying metadata.<br><br>
