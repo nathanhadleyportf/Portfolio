@@ -28,10 +28,22 @@ The DEMO_KEY is provided by NASA for public testing.  However, an API key is pro
 
 <br>
 
-## Headers:
-| Header    | Value   | Description                                      |
-|---------|--------|--------------------------------------------------|
-| Content-Type | application/json | Indicates that the response is JSON |
+## Request Headers
+
+| Header      | Required | Description                             | Example              |
+|-------------|----------|-----------------------------------------|----------------------|
+| Accept      | No       | Desired response format (usually JSON)  | application/json     |
+| User-Agent  | No       | Client identifier (optional)            | MyApp/1.0            |
+
+<br>
+
+## Important Response Headers
+
+| Header              | Description                               | Example Value        |
+|---------------------|-------------------------------------------|----------------------|
+| Content-Type        | Format of the response                    | application/json     |
+| X-RateLimit-Remaining | Remaining API calls in quota (if present) | 45                   |
+| Cache-Control       | Caching policy                            | public, max-age=30   |
 
 <br>
 
@@ -53,6 +65,7 @@ The DEMO_KEY is provided by NASA for public testing.  However, an API key is pro
 
 | Field       | Type    | Description                                               |
 |-------------|---------|-----------------------------------------------------------|
+| copyright   | string  | Returns the owner of the copyright
 | date        | string  | Date of the content (YYYY‑MM‑DD)                         |
 | explanation | string  | Detailed description of the media                         |
 | media_type  | string  | Indicates image or video                                  |
