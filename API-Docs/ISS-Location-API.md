@@ -50,3 +50,19 @@ _None_
 | `iss_position` | object | Object containing latitude and longitude fields                |
 | `latitude`   | string  | Latitude of the ISS                                            |
 | `longitude`  | string  | Longitude of the ISS                                           |
+
+<br>
+
+## Possible Errors
+| Code | Message  | Description|
+|--------|--------|-----------|
+|400 | Not found | Invalid endpoint or mistyped URL |
+|500 | Internal Server Error | Temporary issue with the Open Notify server
+
+<br>
+
+## Notes
+- The ISS location is only updated once every second.  A single client should keep polling to about once every 5 seconds to reduce strain to the servers.
+
+- Latitude and longitude return strings rather than floats.
+
