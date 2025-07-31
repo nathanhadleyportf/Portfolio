@@ -8,19 +8,19 @@
 
 `POST https://jsonplaceholder.typicode.com/posts`
 
----
+<br>
 
 ## Description
 
 This is a simulated endpoint that allows users to simulate the creation of a new blog post.
 
----
+<br>
 
 ## Authentication
 
 No authentication required. This is a publicly available testing API.
 
----
+<br>
 
 ## Headers
 
@@ -28,7 +28,7 @@ No authentication required. This is a publicly available testing API.
 |---------------|--------------------|------------------------------------------|
 | Content-Type  | application/json   | Specifies that the request body is JSON-formatted |
 
----
+<br>
 
 ## Required Request Body Parameters (JSON)
 
@@ -38,7 +38,7 @@ No authentication required. This is a publicly available testing API.
 | body    | string  | The content of the post        |
 | userID  | number  | The ID of the post’s author    |
 
----
+<br>
 
 ## Example Request
 
@@ -46,7 +46,8 @@ No authentication required. This is a publicly available testing API.
 POST https://jsonplaceholder.typicode.com/posts
 Content-Type: application/json
 ```
----
+
+<br>
 
 ## Request Body
 ```
@@ -58,11 +59,12 @@ Content-Type: application/json
 }
 ```
 
----
+<br>
 
 ## Example Response
 
-```{
+```
+{
   "title": "Example of a POST endpoint",
   "body": "This example demonstrates how to create a post using a POST request.",
   "userId": 7,
@@ -70,7 +72,7 @@ Content-Type: application/json
 }
 ```
 
----
+<br>
 
 ## Successful Response
 
@@ -78,7 +80,7 @@ Content-Type: application/json
 |------|---------|---------------------------------------------------------------|
 | 201  | Created | The post was successfully created. A fictitious id:101 is returned. |
 
----
+<br>
 
 ## Possible Errors
 
