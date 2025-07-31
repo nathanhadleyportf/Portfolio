@@ -27,6 +27,12 @@ _None_
 <br>
 
 ## Example Request
+```http
+GET  http://api.open-notify.org/iss-now.json
+```
+<br>
+
+## Example Reponse
 
 ```json
 {
