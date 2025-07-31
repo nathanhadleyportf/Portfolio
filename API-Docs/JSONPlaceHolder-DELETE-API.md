@@ -23,3 +23,43 @@ No authentication required.  This is a publicly available testing API.
 | Name | Type | Description|
 |------|-------|-----------|
 | id | number | The ID of the post to delete.|
+
+<br>
+
+## Headers
+
+| Header | Value  | Description|
+|--------|--------|-----------|
+|Content-Type | application/json | Typically included, even if no body is sent |
+
+<br>
+
+## Example Request
+```http
+DELETE https://jsonplaceholder.typicode.com/posts/10
+Content-Type: application/json
+```
+
+<br>
+
+## Example Response
+{}
+
+<br>
+
+## Successful Response
+| Code | Message  | Description|
+|--------|--------|-----------|
+|200 | OK | The post was deleted successfully.  JSONPlaceholder returns an empty body. |
+
+<br>
+
+## Possible Errors
+| Code | Message  | Description|
+|--------|--------|-----------|
+|404 | Not Found | No post found with the provided id |
+|400 | Bad request | Invalid id format (e.g. string instead of number) |
+
+<br>
+## Notes
+- This is intended to simulate deletion; the post is not actually removed
