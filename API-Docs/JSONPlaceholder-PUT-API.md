@@ -64,6 +64,7 @@ Content-Type: application/json
   "body": "This PUT request fully replaces the content of the post with ID 5.",
   "userId": 7
 }
+```
 
 <br>
 
