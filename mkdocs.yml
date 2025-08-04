@@ -21,11 +21,13 @@ nav:
       
   - Video Tutorials: 
       - Overview: Video-Tutorials/README.md
-      - BloFin:
-        - Overview: Video-Tutorials/BloFin/README.md
-        - 2FA Demo: Video-Tutorials/BloFin/2FA.mp4
-        - Accounts Comparison: Video-Tutorials/BloFin/Accounts Comparison.mp4
-        - Withdraw & Deposit: Video-Tutorials/BloFin/WithdrawDeposit.mp4
+      # For BloFin videos find them in the file directory on github
+      
+      #- BloFin:
+      #  - Overview: Video-Tutorials/BloFin/README.md
+      #  - 2FA Demo: Video-Tutorials/BloFin/2FA.mp4
+      #  - Accounts Comparison: Video-Tutorials/BloFin/Accounts Comparison.mp4
+      #  - Withdraw & Deposit: Video-Tutorials/BloFin/WithdrawDeposit.mp4
       - Collier Aerospace: Video-Tutorials/Collier_Aerospace.md
   
   - eBooks:
