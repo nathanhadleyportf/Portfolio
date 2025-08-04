@@ -5,17 +5,14 @@ This section highlights my technical writing work for Collier Aerospace, where I
 
 Below is a small sample of the many many videos I made for them over the 2+ years I worked for Collier Aerospace:
 
-*HyperX Software: Design Properties:* <br>
-https://www.youtube.com/watch?v=Qp6KqE37h7I
+[HyperX Software: Design Properties](https://www.youtube.com/watch?v=Qp6KqE37h7I)
 
 <br>
 
-*HyperX Software: Ply Manager Properties:* <br>
-https://www.youtube.com/watch?v=rYbfbdw6EKI
+[HyperX Software: Ply Manager Properties](https://www.youtube.com/watch?v=rYbfbdw6EKI)
 
 <br>
 
-*HyperX Software: Load Properties* <br>
-https://www.youtube.com/watch?v=7Qxt0fNoIK0
+[HyperX Software: Load Properties](https://www.youtube.com/watch?v=7Qxt0fNoIK0)
 
 <br>
