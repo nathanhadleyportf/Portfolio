@@ -1,7 +1,6 @@
 # Nathan Hadley Portfolio
-[Click here for my portfolio](https://nathanhadleyportf.github.io/Portfolio/)
 
-Welcome to my technical writing portfolio, crafted to showcase my expertise across diverse domains — including API documentation, cloud platforms, and aerospace engineering. This repository is fully integrated with **MkDocs** and GitHub Actions to enable a seamless **CI/CD workflow**, allowing for continuous updates, auto-deployment, and developer-style version control.
+Welcome to [my technical writing portfolio](https://nathanhadleyportf.github.io/Portfolio/), crafted to showcase my expertise across diverse domains — including API documentation, cloud platforms, and aerospace engineering. This repository is fully integrated with **MkDocs** and GitHub Actions to enable a seamless **CI/CD workflow**, allowing for continuous updates, auto-deployment, and developer-style version control.
 
 ## What’s Inside
 
