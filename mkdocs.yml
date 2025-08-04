@@ -5,6 +5,11 @@ site_dir: site
 nav:
   - Home: README.md
   - API Docs: API-Docs/README.md
+    - NASA APOD API: API-Docs/NASA-APOD-API.md
+    - ISS Location API: API-Docs/ISS-Location-API.md
+    - JSONPlaceholder POST: API-Docs/JSONPlaceholder-POST-API.md
+    - JSONPlaceholder PUT: API-Docs/JSONPlaceholder-PUT-API.md
+    - JSONPlaceholder DELETE: API-Docs/JSONPlaceHolder-DELETE-API.md
   - Case Studies: Case Studies/README.md
   - Video Tutorials: Video-Tutorials/README.md
   - eBooks: eBooks/README.md
