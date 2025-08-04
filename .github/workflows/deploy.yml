@@ -26,6 +26,6 @@ jobs:
           git config --global user.name "GitHub Actions"
 
     - name: Deploy to GitHub Pages
-      run: mkdocs gh-deploy --force
+      run: mkdocs gh-deploy --force --verbose
       env:
         GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
