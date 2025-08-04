@@ -23,7 +23,7 @@ nav:
       - Overview: Video-Tutorials/README.md
       - Collier Aerospace: Video-Tutorials/Collier_Aerospace.md
   
-  - eBooks: eBooks/README.md
+  - eBooks:
       - Overview: eBooks/README.md
       - Cloud Computing: eBooks/Cloud computing.pdf
       - IoT: eBooks/IOT ebook.pdf
