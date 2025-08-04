@@ -88,3 +88,9 @@ Content-Type: application/json
 |------|--------------------|----------------------------------------------------|
 | 400  | Bad Request        | JSON body is missing required fields or is malformed |
 | 415  | Unsupported Media  | Content-type is not set to application/json          |
+
+<br>
+
+## **Notes**
+* This is a mock API, and no post is actually created
+* The returned id is always 101, regardless of the input
