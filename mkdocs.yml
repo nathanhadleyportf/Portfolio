@@ -20,7 +20,9 @@ nav:
       - VGI: Case Studies/VDartDigital-VGI.pdf
       
   - Video Tutorials: 
-      - BloFin 2FA:  Video-Tutorials//Blofin/2FA.mp4
+      - Overview: Video-Tutorials/README.md
+      - BloFin 2FA:  Video-Tutorials/Blofin/2FA.mp4
+      - Collier Aerospace: Video-Tutorials/Collier_Aerospace.md
   
   - eBooks: eBooks/README.md
 theme:
