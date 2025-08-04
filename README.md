@@ -9,7 +9,7 @@ My experience spans diverse industries—from aerospace giants like Lockheed Mar
 
 Beyond technical writing, I bring a strong background in aerospace engineering, including stress analysis and FAA-compliant documentation, which allows me to bridge the gap between engineering teams and end users effectively.
 
-I am passionate about continuous learning and leveraging technology to improve documentation quality and accessibility. Whether producing detailed engineering guides or mentoring technical communities, I strive to empower users and teams through exceptional communication.
+I am passionate about continuous learning and leveraging technology to improve documentation quality and accessibility. Whether producing detailed engineering guides or mentoring technical communities, I strive to empower users and teams through exceptional communication. 
 
 -----
 
