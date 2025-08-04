@@ -19,7 +19,9 @@ nav:
       - Forge Rock: Case Studies/VDartDigital-ForgeRock.pdf
       - VGI: Case Studies/VDartDigital-VGI.pdf
       
-  - Video Tutorials: Video-Tutorials/README.md
+  - Video Tutorials: 
+      - BloFin 2FA:  Video-Tutorials//Blofin-2FA.mp4
+  
   - eBooks: eBooks/README.md
 theme:
   name: material
