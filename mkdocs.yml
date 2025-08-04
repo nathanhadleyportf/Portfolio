@@ -28,7 +28,7 @@ nav:
       - Cloud Computing: eBooks/Cloud computing.pdf
       - IoT: eBooks/IOT ebook.pdf
       - Managing Digital Identities: eBooks/Managing Digital Identities.pdf
-      - RPA: ebooks/RPA EBook.pdf
+      - RPA: eBooks/RPA EBook.pdf
       
 theme:
   name: material
