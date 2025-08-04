@@ -1,4 +1,6 @@
 site_name: Nathan Hadley Portfolio
+docs_dir: .
+
 nav:
   - Home: README.md
   - API Docs: API-Docs/README.md
