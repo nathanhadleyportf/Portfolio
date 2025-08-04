@@ -12,7 +12,13 @@ nav:
       - JSONPlaceholder PUT: API-Docs/JSONPlaceholder-PUT-API.md
       - JSONPlaceholder DELETE: API-Docs/JSONPlaceHolder-DELETE-API.md
 
-  - Case Studies: Case Studies/README.md
+  - Case Studies: 
+      - Overview: Case Studies/README.md
+      - BPM: Case Studies/VDartDigital-BPM.pdf
+      - Data Analytics: Case Studies/VDartDigital-Data Analytics.pdf
+      - Forge Rock: Case Studies/VDartDigital-ForgeRock.pdf
+      - VGI: Case Studies/VDartDigital-VGI.pdf
+      
   - Video Tutorials: Video-Tutorials/README.md
   - eBooks: eBooks/README.md
 theme:
