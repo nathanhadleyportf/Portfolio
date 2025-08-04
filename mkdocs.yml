@@ -1,0 +1,9 @@
+site_name: Nathan Hadley Portfolio
+nav:
+  - Home: README.md
+  - API Docs: API-Docs/README.md
+  - Case Studies: Case Studies/README.md
+  - Video Tutorials: Video-Tutorials/README.md
+  - eBooks: eBooks/README.md
+theme:
+  name: material
