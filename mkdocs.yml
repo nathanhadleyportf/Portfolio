@@ -21,9 +21,14 @@ nav:
       
   - Video Tutorials: 
       - Overview: Video-Tutorials/README.md
-      - BloFin 2FA:  Video-Tutorials/Blofin/2FA.mp4
       - Collier Aerospace: Video-Tutorials/Collier_Aerospace.md
   
   - eBooks: eBooks/README.md
+      - Overview: eBooks/README.md
+      - Cloud Computing: eBooks/Cloud computing.pdf
+      - IoT: eBooks/IOT ebook.pdf
+      - Managing Digital Identities: eBooks/Managing Digital Identities.pdf
+      - RPA: ebooks/RPA EBOOK.pdf
+      
 theme:
   name: material
