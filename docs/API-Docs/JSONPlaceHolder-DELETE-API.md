@@ -63,5 +63,6 @@ Content-Type: application/json
 |400 | Bad request | Invalid id format (e.g. string instead of number) |
 
 <br>
+
 ## **Notes**
 - This is intended to simulate deletion; the post is not actually removed
